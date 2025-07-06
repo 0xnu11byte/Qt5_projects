@@ -1,3 +1,3 @@
 ## 📸 Preview
 
-![Notepad Clone Screenshot](screenshot.png)
+![Calculator Screenshot](screenshot.png)
